@@ -1,6 +1,6 @@
 # Simple Virtual Desktop Indicator for Windows 10/11
 This is a very simple script written in 10 minutes that shows actively as icon tray which on virtual desktop you are.
-<img src="preview.png" width="300px">
+<img src="preview.gif" width="300px">
 
 ## Installation
 1. Download the repo
